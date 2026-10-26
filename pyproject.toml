@@ -1,0 +1,11 @@
+[project]
+name = "pharmacovigilance-signals"
+version = "1.0.0"
+description = "Disproportionality analysis of FDA adverse event reports (FAERS via openFDA): PRR, ROR, BCPNN IC and Gamma-Poisson shrinker EBGM, evaluated on the OMOP and EU-ADR reference sets of positive and negative controls."
+requires-python = ">=3.10"
+license = "MIT"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning"]
