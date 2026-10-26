@@ -1,0 +1,12 @@
+event,drug,comparator,a,n_drug,comparator_a,comparator_reports,ror_vs_all,ror_vs_comparator,ci_low,ci_high
+tendon_rupture,ciprofloxacin,"other antibiotic (amoxicillin, azithromycin, doxycycline, cephalexin, nitrofurantoin)",878,80987,201,309116,25.514704468511606,16.84442322956862,14.448134719873046,19.638147029911142
+tendon_rupture,levofloxacin,"other antibiotic (amoxicillin, azithromycin, doxycycline, cephalexin, nitrofurantoin)",1268,77153,201,309116,41.42761053717866,25.68066434644987,22.125359099937235,29.807268586971425
+tendon_rupture,moxifloxacin,"other antibiotic (amoxicillin, azithromycin, doxycycline, cephalexin, nitrofurantoin)",89,24317,201,309116,7.6439222087454235,5.645668594455492,4.397313098738995,7.248420379154112
+tendon_rupture,ofloxacin,"other antibiotic (amoxicillin, azithromycin, doxycycline, cephalexin, nitrofurantoin)",55,7165,201,309116,16.03940747241204,11.888745442968,8.814568541589653,16.035075062471773
+rhabdomyolysis,atorvastatin,other lipid-lowering (ezetimibe),3929,389518,1060,64446,7.607970465575699,0.6093192149995276,0.5690605168077492,0.6524260510118469
+rhabdomyolysis,simvastatin,other lipid-lowering (ezetimibe),2089,156535,1060,64446,9.377331959161816,0.8088151100744988,0.7507565606600082,0.8713635238961036
+rhabdomyolysis,rosuvastatin,other lipid-lowering (ezetimibe),2792,161569,1060,64446,12.601181314085723,1.0515145901199272,0.9791437850889969,1.1292344904528808
+rhabdomyolysis,pravastatin,other lipid-lowering (ezetimibe),297,68370,1060,64446,2.807531352004023,0.2608969727005055,0.22929067009171014,0.2968600089007688
+rhabdomyolysis,lovastatin,other lipid-lowering (ezetimibe),74,16033,1060,64446,2.9657143165012148,0.2772767953730491,0.2189215666674037,0.3511870594693453
+rhabdomyolysis,fluvastatin,other lipid-lowering (ezetimibe),73,3749,1060,64446,12.711237777469481,1.1875033362761,0.9346016776147986,1.508839762909216
+depression,isotretinoin,"other acne drug (doxycycline, minocycline)",2801,36197,2382,76243,9.347253550553352,2.600710927939102,2.458738128395466,2.750881540652622

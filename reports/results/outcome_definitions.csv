@@ -1,0 +1,63 @@
+event,label,pt,pt_reports,event_reports,drug_terms_listed,drug_table_floor
+acute_liver_injury,Acute liver injury,DRUG-INDUCED LIVER INJURY,26113,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATOTOXICITY,15941,130132,999,81
+acute_liver_injury,Acute liver injury,LIVER INJURY,18495,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATOCELLULAR INJURY,11075,130132,999,81
+acute_liver_injury,Acute liver injury,CHOLESTATIC LIVER INJURY,1695,130132,999,81
+acute_liver_injury,Acute liver injury,MIXED LIVER INJURY,2349,130132,999,81
+acute_liver_injury,Acute liver injury,ACUTE HEPATIC FAILURE,9366,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATIC FAILURE,17358,130132,999,81
+acute_liver_injury,Acute liver injury,SUBACUTE HEPATIC FAILURE,83,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATITIS,15754,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATITIS ACUTE,3910,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATITIS CHOLESTATIC,3489,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATITIS FULMINANT,1553,130132,999,81
+acute_liver_injury,Acute liver injury,HEPATIC NECROSIS,1505,130132,999,81
+acute_liver_injury,Acute liver injury,JAUNDICE,14260,130132,999,81
+acute_liver_injury,Acute liver injury,JAUNDICE CHOLESTATIC,2018,130132,999,81
+acute_kidney_injury,Acute kidney injury,ACUTE KIDNEY INJURY,141350,243394,999,146
+acute_kidney_injury,Acute kidney injury,RENAL FAILURE ACUTE,0,243394,999,146
+acute_kidney_injury,Acute kidney injury,RENAL FAILURE,86769,243394,999,146
+acute_kidney_injury,Acute kidney injury,RENAL INJURY,25838,243394,999,146
+acute_kidney_injury,Acute kidney injury,NEPHROPATHY TOXIC,7775,243394,999,146
+acute_kidney_injury,Acute kidney injury,RENAL TUBULAR NECROSIS,6167,243394,999,146
+acute_kidney_injury,Acute kidney injury,PRERENAL FAILURE,1146,243394,999,146
+acute_kidney_injury,Acute kidney injury,ANURIA,4885,243394,999,146
+acute_myocardial_infarction,Acute myocardial infarction,ACUTE MYOCARDIAL INFARCTION,15141,84711,999,33
+acute_myocardial_infarction,Acute myocardial infarction,MYOCARDIAL INFARCTION,69877,84711,999,33
+acute_myocardial_infarction,Acute myocardial infarction,SILENT MYOCARDIAL INFARCTION,186,84711,999,33
+upper_gi_bleeding,Upper GI bleeding,UPPER GASTROINTESTINAL HAEMORRHAGE,12507,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,GASTROINTESTINAL HAEMORRHAGE,54916,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,GASTRIC HAEMORRHAGE,7056,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,GASTRIC ULCER HAEMORRHAGE,3243,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,DUODENAL ULCER HAEMORRHAGE,1744,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,PEPTIC ULCER HAEMORRHAGE,457,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,OESOPHAGEAL HAEMORRHAGE,831,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,DUODENAL HAEMORRHAGE,0,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,HAEMATEMESIS,15579,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,MELAENA,14204,102609,999,43
+upper_gi_bleeding,Upper GI bleeding,GASTRITIS HAEMORRHAGIC,967,102609,999,43
+anaphylaxis,Anaphylaxis,ANAPHYLACTIC REACTION,38133,56507,999,25
+anaphylaxis,Anaphylaxis,ANAPHYLACTIC SHOCK,16589,56507,999,25
+anaphylaxis,Anaphylaxis,ANAPHYLACTOID REACTION,2078,56507,999,25
+anaphylaxis,Anaphylaxis,ANAPHYLACTOID SHOCK,202,56507,999,25
+cardiac_valve_fibrosis,Cardiac valve fibrosis,CARDIAC VALVE FIBROSIS,0,11645,999,7
+cardiac_valve_fibrosis,Cardiac valve fibrosis,CARDIAC VALVE DISEASE,3207,11645,999,7
+cardiac_valve_fibrosis,Cardiac valve fibrosis,MITRAL VALVE INCOMPETENCE,5364,11645,999,7
+cardiac_valve_fibrosis,Cardiac valve fibrosis,AORTIC VALVE INCOMPETENCE,1953,11645,999,7
+cardiac_valve_fibrosis,Cardiac valve fibrosis,TRICUSPID VALVE INCOMPETENCE,3821,11645,999,7
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,AGRANULOCYTOSIS,12540,262217,999,116
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,NEUTROPENIA,101474,262217,999,116
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,FEBRILE NEUTROPENIA,46849,262217,999,116
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,LEUKOPENIA,32611,262217,999,116
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,GRANULOCYTOPENIA,2631,262217,999,116
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,NEUTROPHIL COUNT DECREASED,29101,262217,999,116
+leukopenia_agranulocytosis,Leukopenia / agranulocytosis,WHITE BLOOD CELL COUNT DECREASED,77993,262217,999,116
+aplastic_anaemia,Aplastic anaemia,APLASTIC ANAEMIA,3234,16548,999,6
+aplastic_anaemia,Aplastic anaemia,BONE MARROW FAILURE,13478,16548,999,6
+rhabdomyolysis,Rhabdomyolysis,RHABDOMYOLYSIS,23509,23509,999,12
+sjs_ten,SJS / TEN,STEVENS-JOHNSON SYNDROME,10942,18832,999,12
+sjs_ten,SJS / TEN,TOXIC EPIDERMAL NECROLYSIS,9347,18832,999,12
+sjs_ten,SJS / TEN,SJS-TEN OVERLAP,572,18832,999,12
+tendon_rupture,tendon rupture,TENDON RUPTURE,7296,7296,999,2
+depression,depression,DEPRESSION,136128,136128,999,72

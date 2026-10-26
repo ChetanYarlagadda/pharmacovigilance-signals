@@ -1,0 +1,21 @@
+kind,drug,event,term_sum,exact_search,rel_diff,token_also_matches
+drug reports,rosiglitazone,,2001,1956,0.023006134969325152,
+drug reports,rofecoxib,,1717,1717,0.0,
+drug reports,moexipril,,177,226,-0.2168141592920354,
+drug reports,ketoconazole,,15946,15972,-0.0016278487352867517,
+drug reports,droperidol,,1384,1396,-0.008595988538681949,
+drug reports,amlodipine,,357416,355822,0.004479767973874578,
+drug reports,acetazolamide,,6642,6724,-0.012195121951219513,
+drug reports,estradiol,,77403,143709,-0.4613907270943365,DESOGESTREL\ETHINYL ESTRADIOL; DROSPIRENONE\ETHINYL ESTRADIOL; ETHINYL ESTRADIOL; ETHINYL ESTRADIOL\ETONOGESTREL; ETHINYL ESTRADIOL\LEVONORGESTREL
+drug reports,clozapine,,100210,100210,0.0,
+drug reports,benzocaine,,1163,1645,-0.29300911854103345,
+co-reports (a),disulfiram,acute_liver_injury,113,113,0.0,
+co-reports (a),estradiol,cardiac_valve_fibrosis,97,152,-0.3618421052631579,DESOGESTREL\ETHINYL ESTRADIOL; DROSPIRENONE\ETHINYL ESTRADIOL; ETHINYL ESTRADIOL; ETHINYL ESTRADIOL\ETONOGESTREL; ETHINYL ESTRADIOL\LEVONORGESTREL
+co-reports (a),metaxalone,acute_kidney_injury,263,263,0.0,
+co-reports (a),thiothixene,acute_kidney_injury,9,9,0.0,
+co-reports (a),nortriptyline,acute_kidney_injury,582,570,0.021052631578947368,
+co-reports (a),nifedipine,acute_myocardial_infarction,476,476,0.0,
+co-reports (a),diltiazem,acute_liver_injury,896,804,0.11442786069651742,
+co-reports (a),orlistat,acute_liver_injury,110,110,0.0,
+co-reports (a),droperidol,upper_gi_bleeding,3,3,0.0,
+co-reports (a),oxaprozin,acute_myocardial_infarction,14,14,0.0,

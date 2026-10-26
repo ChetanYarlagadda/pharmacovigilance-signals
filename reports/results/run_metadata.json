@@ -1,0 +1,60 @@
+{
+  "disclaimer": "Not medical advice. Disproportionality in spontaneous reports is a screening statistic, not evidence that a drug causes an event: reports are unverified, incomplete and influenced by publicity, litigation and how often a drug is used. Do not use these results to make decisions about any medicine; talk to a doctor or pharmacist.",
+  "generated_utc": "2026-10-10T19:56:27+00:00",
+  "quick": false,
+  "source": "openFDA drug adverse event endpoint (FAERS), https://api.fda.gov/drug/event.json",
+  "openfda_last_updated": "2026-07-30",
+  "window_receivedate": [
+    "20150101",
+    "20251231"
+  ],
+  "counting_unit": "report (openFDA record = latest version of a FAERS safety report ID); not patients, not drug-event pairs; duplicate reports of one case from different senders are not merged",
+  "drug_field": "patient.drug.activesubstance.activesubstancename",
+  "event_field": "patient.reaction.reactionmeddrapt.exact",
+  "count_limit": 999,
+  "N_reports": 15028315,
+  "n_reference_pairs": {
+    "euadr": 93,
+    "omop": 391
+  },
+  "n_evaluable_pairs": {
+    "euadr": 93,
+    "omop": 377
+  },
+  "a_method_counts": {
+    "fill-in (single drug)": 164,
+    "table": 163,
+    "fill-in": 157
+  },
+  "gps_prior": {
+    "a1": 1.465283495731428,
+    "b1": 1.0442638720794784,
+    "a2": 0.43764307460493607,
+    "b2": 0.14730126915106262,
+    "w": 0.7469861919786285,
+    "loglik": -53855.19702033919,
+    "n_pairs": 8785
+  },
+  "gps_pool_pairs": 8785,
+  "requests": {
+    "queries_used_by_this_run": 296,
+    "network_calls_this_run": 0,
+    "cache_hits_this_run": 297,
+    "network_calls_logged_total": 437,
+    "log_days": [
+      "2026-10-10"
+    ]
+  },
+  "fetch_dates": [
+    "2026-10-10"
+  ],
+  "runtime_s": 52.5,
+  "python": "3.12.10",
+  "screen_pt_floor": 6214,
+  "reports_with_reportduplicate_block": 10455681,
+  "role_check_aspirin": {
+    "aspirin_reports": 579057,
+    "aspirin_and_any_suspect_drug": 576732
+  },
+  "openfda_reports_all_years": 20692690
+}
