@@ -1,5 +1,7 @@
 # Detecting Drug Safety Signals in FDA Adverse Event Reports
 
+[![CI](https://github.com/ChetanYarlagadda/pharmacovigilance-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/ChetanYarlagadda/pharmacovigilance-signals/actions/workflows/ci.yml)
+
 **Do the four standard disproportionality statistics (PRR, ROR, BCPNN IC and the Gamma-Poisson shrinker's EBGM)
 recover known adverse drug reactions from FDA's spontaneous reports, and what makes them fail?** This project builds
 2x2 tables for 470 drug-outcome pairs from 15.0 million FAERS reports (2015-2025) using only openFDA count queries,
@@ -336,6 +338,7 @@ notebooks/              analysis.ipynb, the walkthrough with tables
 reports/                figures/ and results/ (every number above, every scored pair, every query URL)
 tests/                  2x2 statistics against hand calculations and scipy, GPS on simulated data, count assembly
                         and the 999-term fill-in against a fake openFDA, client caching, name matching, metrics
+.github/workflows/      CI: pyflakes and the pytest suite (fake openFDA responses and simulated counts, no network)
 ```
 
 ## License and citations
